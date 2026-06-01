@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userserify",
+        "uuid": 26399744,
+        "checksum": "x4ray9"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
